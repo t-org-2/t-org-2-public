@@ -2,7 +2,3 @@
 test organization 2 public repository
 
 update test
-
-dev
-
-lol
